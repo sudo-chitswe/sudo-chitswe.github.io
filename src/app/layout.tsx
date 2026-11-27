@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   keywords: [
     'Chit Swe',
     'sudochitswe',
-    'sudochitswe-v2',
+    'sudo-chitswe',
     'Full Stack Developer',
     'Software Engineer',
     '.NET Core Developer',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
     'Myanmar Software Engineer',
     'Chit Swe Portfolio'
   ],
-  authors: [{ name: 'Chit Swe', url: 'https://github.com/sudochitswe-v2' }],
+  authors: [{ name: 'Chit Swe', url: 'https://github.com/sudo-chitswe' }],
   creator: 'Chit Swe',
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://sudochitswe-v2.github.io/portfolio'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://sudo-chitswe.github.io/portfolio'),
   alternates: {
     canonical: '/',
   },
@@ -80,8 +80,8 @@ export default function RootLayout({
     name: PROFILE_DATA.name,
     jobTitle: PROFILE_DATA.title,
     description: PROFILE_DATA.introduction,
-    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://sudochitswe-v2.github.io',
-    image: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://sudochitswe-v2.github.io'}/images/profile.png`,
+    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://sudo-chitswe.github.io',
+    image: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://sudo-chitswe.github.io'}/images/profile.png`,
     sameAs: [
       PROFILE_DATA.socialLinks.linkedin,
       PROFILE_DATA.socialLinks.github,

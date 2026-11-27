@@ -8,7 +8,7 @@ export const PROFILE_DATA = {
   },
   socialLinks: {
     linkedin: 'https://www.linkedin.com/in/sudochitswe',
-    github: 'https://github.com/sudochitswe-v2',
+    github: 'https://github.com/sudo-chitswe',
     mastodon: "https://burma.social/@sudo_chitswe",
   },
 };
@@ -151,61 +151,61 @@ export const PERSONAL_PROJECTS_DATA = [
     title: 'ChaYay (ချရေး)',
     description: 'A lightweight and simple markdown editor built with flutter for cross-platform use.',
     technologies: ['Flutter', 'Fluent UI'],
-    githubUrl: 'https://github.com/sudochitswe-v2/chayay',
-    demoUrl: 'https://sudochitswe-v2.github.io/chayay/',
-    imageUrl: "https://raw.githubusercontent.com/sudochitswe-v2/chayay-release/master/screenshot.png",
+    githubUrl: 'https://github.com/sudo-chitswe/chayay',
+    demoUrl: 'https://sudo-chitswe.github.io/chayay/',
+    imageUrl: "https://raw.githubusercontent.com/sudo-chitswe/chayay-release/master/screenshot.png",
   },
   {
     id: 'personal-project-1',
     title: 'Kyi Poh',
     description: 'Custom front door movie streaming app using exposed movie APIs to fetch and display movie information.',
     technologies: ['React.js', 'JavaScript', 'CSS', 'HTML', 'Movie APIs'],
-    githubUrl: 'https://github.com/sudochitswe-v2/kyipoh-web  ',
+    githubUrl: 'https://github.com/sudo-chitswe/kyipoh-web',
     demoUrl: 'https://kyipoh.vercel.app',
-    imageUrl: "https://raw.githubusercontent.com/sudochitswe-v2/kyipoh-web/refs/heads/master/screenshot.png", // This would be your actual image,
+    imageUrl: "https://raw.githubusercontent.com/sudo-chitswe/kyipoh-web/refs/heads/master/screenshot.png", // This would be your actual image,
   },
   {
     id: 'personal-project-9',
     title: 'Myan Feeds',
     description: 'Rss feed reader app that fetches and displays news articles from various sources, allowing users to stay updated with the latest news in Myanmar.',
     technologies: ['Next.js', 'Rss'],
-    githubUrl: 'https://github.com/sudochitswe-v2/myanfeeds',
+    githubUrl: 'https://github.com/sudo-chitswe/myanfeeds',
     demoUrl: 'https://myanfeeds.vercel.app/',
-    imageUrl: 'https://raw.githubusercontent.com/sudochitswe-v2/myanfeeds/refs/heads/master/screenshot.png', // This would be your actual image,
+    imageUrl: 'https://raw.githubusercontent.com/sudo-chitswe/myanfeeds/refs/heads/master/screenshot.png', // This would be your actual image,
   },
   {
     id: 'personal-project-2',
     title: 'TruthLine',
     description: 'Websetite that provides verified news articles and fact-checking services to combat misinformation. (Hackathon Project)',
     technologies: ['.NET MVC', 'Razor Pages', 'MariaDb', 'Bootstrap'],
-    githubUrl: 'https://github.com/sudochitswe-v2/TruthLine',
+    githubUrl: 'https://github.com/sudo-chitswe/TruthLine',
     demoUrl: undefined,
-    imageUrl: "https://raw.githubusercontent.com/sudochitswe-v2/TruthLine/refs/heads/master/screenshot.png", // This would be your actual image
+    imageUrl: "https://raw.githubusercontent.com/sudo-chitswe/TruthLine/refs/heads/master/screenshot.png", // This would be your actual image
   },
   {
     id: 'personal-project-3',
     title: 'CSMF',
     description: 'Web-based loan management system designed to streamline the operations of microfinance institutions.',
     technologies: ['.NET MVC', 'Razor Pages', 'MariaDb', 'Bootstrap', 'Hangfire'],
-    githubUrl: 'https://github.com/sudochitswe-v2/CSMF',
+    githubUrl: 'https://github.com/sudo-chitswe/CSMF',
     demoUrl: undefined,
-    imageUrl: "https://raw.githubusercontent.com/sudochitswe-v2/CSMF/refs/heads/master/screenshot.png", // This would be your actual image
+    imageUrl: "https://raw.githubusercontent.com/sudo-chitswe/CSMF/refs/heads/master/screenshot.png", // This would be your actual image
   },
   {
     id: 'personal-project-4',
     title: 'Foodify',
     description: 'online culinary platform that connects food enthusiasts and providing a space to explore, share, and discover diverse recipes and cooking tips.',
     technologies: ['Laravel', 'Blade', 'PHP', 'MariaDb', 'Bootstrap'],
-    githubUrl: 'https://github.com/sudochitswe-v2/foodify-laravel',
+    githubUrl: 'https://github.com/sudo-chitswe/foodify-laravel',
     demoUrl: undefined,
-    imageUrl: "https://raw.githubusercontent.com/sudochitswe-v2/foodify-laravel/refs/heads/master/screenshot.png", // This would be your actual image
+    imageUrl: "https://raw.githubusercontent.com/sudo-chitswe/foodify-laravel/refs/heads/master/screenshot.png", // This would be your actual image
   },
   {
     id: 'personal-project-5',
     title: 'DotBlog Web API',
     description: 'simple blog app api with .NET 8 best practices and JWT authentication.',
     technologies: ['.NET 8', 'C#', 'Entity Framework Core', 'MSSQL', 'JWT'],
-    githubUrl: 'https://github.com/sudochitswe-v2/DotBlog',
+    githubUrl: 'https://github.com/sudo-chitswe/DotBlog',
     demoUrl: undefined,
     imageUrl: undefined, // This would be your actual image
   },
@@ -214,7 +214,7 @@ export const PERSONAL_PROJECTS_DATA = [
     title: 'Kfitness Web API',
     description: 'A RESTful API for a fitness application that manages user workouts and progress tracking.',
     technologies: ['PHP', 'MariaDb', 'Composer'],
-    githubUrl: 'https://github.com/sudochitswe-v2/kfitness',
+    githubUrl: 'https://github.com/sudo-chitswe/kfitness',
     demoUrl: undefined,
     imageUrl: undefined, // This would be your actual image
   },
@@ -223,7 +223,7 @@ export const PERSONAL_PROJECTS_DATA = [
     title: 'Kfitness Mobile',
     description: 'A fitness application written in native language that manages user workouts and progress tracking.',
     technologies: ['Kotlin', 'Android Studio', 'Volley'],
-    githubUrl: 'https://github.com/sudochitswe-v2/KFitnessMobile',
+    githubUrl: 'https://github.com/sudo-chitswe/KFitnessMobile',
     demoUrl: undefined,
     imageUrl: undefined, // This would be your actual image
   },
@@ -232,7 +232,7 @@ export const PERSONAL_PROJECTS_DATA = [
     title: 'NCC Fitness Tracker',
     description: 'A fitness tracker using .NET Framework WinForm Desktop App',
     technologies: ['.NET Framework', 'C#', 'WinForm', 'MSSQL'],
-    githubUrl: 'https://github.com/sudochitswe-v2/NCCFitnessTracker',
+    githubUrl: 'https://github.com/sudo-chitswe/NCCFitnessTracker',
     demoUrl: undefined,
     imageUrl: undefined, // This would be your actual image
   }
